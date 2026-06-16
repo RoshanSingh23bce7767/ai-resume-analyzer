@@ -1,0 +1,21 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v7.3.1  ready in 289 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+5:57:02 PM [vite] (client) hmr update /src/index.css, /src/pages/Home.jsx, /src/pages/Jobs.jsx, /src/pages/Candidates.jsx, /src/pages/Dashboard.jsx, /src/pages/Analytics.jsx, /src/pages/Settings.jsx
+5:57:50 PM [vite] (client) hmr update /src/index.css, /src/pages/Home.jsx, /src/pages/Jobs.jsx, /src/pages/Candidates.jsx, /src/pages/Dashboard.jsx, /src/pages/Analytics.jsx, /src/pages/Settings.jsx
+5:58:56 PM [vite] (client) hmr update /src/pages/Jobs.jsx, /src/index.css
+6:08:03 PM [vite] (client) hmr update /src/index.css, /src/pages/Home.jsx, /src/pages/Jobs.jsx, /src/pages/Candidates.jsx, /src/pages/Dashboard.jsx, /src/pages/Analytics.jsx, /src/pages/Settings.jsx
+6:09:20 PM [vite] (client) hmr update /src/App.jsx, /src/index.css
+6:09:37 PM [vite] (client) hmr update /src/index.css, /src/components/Sidebar.jsx
+6:34:27 PM [vite] (client) hmr update /src/pages/Home.jsx, /src/index.css
+6:43:26 PM [vite] (client) hmr update /src/pages/Home.jsx, /src/index.css
+6:43:43 PM [vite] (client) hmr update /src/index.css, /src/components/AnalysisResult.jsx
+6:46:17 PM [vite] (client) hmr update /src/pages/Home.jsx, /src/index.css
+6:51:52 PM [vite] (client) hmr update /src/components/Layout.jsx, /src/index.css
